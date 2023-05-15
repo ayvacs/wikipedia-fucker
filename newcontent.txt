@@ -1,0 +1,272 @@
+by dom age 5{{Short description|Many-legged arthropods with elongated bodies}}
+{{other uses}}
+{{Automatic taxobox
+| fossil_range = {{Fossil range|430|0}}<small>Late [[Silurian]] to [[Holocene|present]]</small>
+| image = Centipede 1852 Colorized.png
+| image_caption = ''[[Lithobius forficatus]]''
+| taxon = Chilopoda
+| authority = [[Pierre André Latreille|Latreille]], 1817
+| subdivision_ranks = Orders and families
+| subdivision = ;[[Scutigeromorpha]]
+*[[Pselliodidae]]
+*[[Scutigeridae]]
+*[[Scutigerinidae]]
+;[[Lithobiomorpha]]
+*[[Henicopidae]]
+*[[Lithobiidae]]
+;[[Craterostigmomorpha]]
+*[[Craterostigmidae]]
+;[[Scolopendromorpha]]
+*[[Cryptopidae]]
+*[[Scolopendridae]]
+*[[Scolopocryptopidae]]
+*[[Plutoniumidae]]
+;[[Geophilomorpha]]
+*[[Himantariidae]]
+*[[Mecistocephalidae]]
+*[[Neogeophilidae]]
+*[[Geophilidae]]
+*[[Oryidae]]
+*[[Linotaeniidae]]
+}}
+
+'''Centipedes''' (from the [[New Latin]] prefix ''{{lang|la|[[wikt:centi-|centi-]]}}'', "hundred", and the [[Latin language|Latin]] word ''{{lang|la|[[:wikt:pes|pes, pedis]]}}'', ''"[[foot]]"'') are [[predator]]y [[arthropod]]s belonging to the class '''Chilopoda''' ([[Ancient Greek]] ''{{lang|grc|[[:wikt:χεῖλος|χεῖλος]]}}'',  ''kheilos'', lip, and [[New Latin]] suffix {{lang|la|[[wikt:-poda|-poda]]}}, "foot", describing the forcipules) of the subphylum [[Myriapoda]], an arthropod group which also includes [[millipede]]s and other multi-legged creatures. Centipedes are elongated [[Metamerism (biology)|metameric]] creatures with one pair of legs per body segment. All centipedes are [[venom]]ous and can inflict painful [[centipede bite|bites]], injecting their venom through [[Pincer (biology)|pincer]]-like appendages known as [[forcipules]]. Despite the name, centipedes can have a varying number of legs, ranging from 30 to 382.<ref name="Shelley 1999" /> Centipedes always have an odd number of pairs of legs.<ref>{{cite book |last=Lloyd |first=John |year=2006 |title=The Book of General Ignorance |url=https://books.google.com/books?id=uCgRY6llQpYC |location=London |publisher=Bloomsbury House |page=119 |isbn=978-0571273782 |access-date=June 10, 2014}}</ref><ref>{{cite journal |last=Arthur |first=W. |year=2002 |title=The interaction between developmental bias and natural selection from centipede segmentation to a general hypothesis |journal=[[Heredity (journal)|Heredity]] |volume=89 |issue=4 |pages=239–246 |pmid=12242638 |doi=10.1038/sj.hdy.6800139|doi-access=free }}</ref><ref>{{cite journal |last1=Arthur |first1=Wallace |last2=Chapman |first2=Ariel D. |year=2005 |title=The centipede ''Strigamia maritima'': what it can tell us about development and evolution of segmentation |journal=[[BioEssays]] |volume=27 |issue=6 |pages=653–660 |pmid=15892117 |doi=10.1002/bies.20234}}</ref> Consequently, no centipede has exactly 100 legs. Like [[spider]]s and [[scorpion]]s, centipedes are  predominantly [[carnivore|carnivorous]].<ref name="Biology">{{cite book |last=Lewis |first=J. G. E. |title=The Biology of Centipedes |year=2007 |publisher=[[Cambridge University Press]] |isbn=978-0-521-03411-1 |url=https://books.google.com/books?id=AEp22u6tJgsC}}</ref>{{rp|168}}
+
+Their size can range from a few millimetres in the smaller lithobiomorphs and geophilomorphs to about {{convert|30|cm|abbr=on}} in the largest scolopendromorphs. Centipedes can be found in a wide variety of environments. They normally have a drab coloration combining shades of brown and red. Cavernicolous (cave-dwelling) and subterranean species may lack pigmentation, while many tropical scolopendromorphs have bright [[aposematic]] colors.
+
+Worldwide, an estimated 8,000 species of centipedes are thought to exist,<ref>{{cite journal |last1=Adis |first1=Joachim |last2=Harvey |first2=Mark S. |year=2000 |title=How many Arachnida and Myriapoda are there worldwide and in Amazonia? |journal=Studies on Neotropical Fauna and Environment |volume=35 |issue=2 |pages=139–141 |doi=10.1076/0165-0521(200008)35:2;1-9;FT139|s2cid=82856115 }}</ref> of which 3,000 have been [[alpha taxonomy|described]]. Centipedes have a wide geographical range, even reaching  beyond the [[Arctic Circle]].<ref name="Biology"/> They are found in an array of terrestrial habitats from [[tropical rainforest]]s to [[desert]]s. Within these habitats, centipedes require a moist microhabitat because they lack the waxy [[Arthropod cuticle|cuticle]] of [[insect]]s and [[arachnid]]s, therefore causing them to rapidly lose water.<ref name=IZ/> Accordingly, they are found in soil and [[leaf litter]], under stones and dead wood, and inside logs. Centipedes are among the largest terrestrial [[invertebrate]] [[predator]]s, and often contribute significantly to the invertebrate predatory biomass in terrestrial ecosystems.
+
+==Description==
+[[File:Centipede 1852 Colorized.png|left|thumb|Underside of ''[[Scolopendra cingulata]]'', showing the forcipules]]
+[[File:Centipede 1852 Colorized.png|left|thumb|Close-up of the tail-like rear pair of legs of a centipede]]
+Centipedes have a rounded or flattened head, bearing a pair of [[antenna (biology)|antennae]] at the forward margin. They have a pair of elongated [[mandible (arthropod)|mandibles]], and two pairs of [[maxilla (arthropod)|maxillae]]. The first pair of maxillae form the lower lip, and bear short [[palp]]s. The first pair of limbs stretch forward from the body to cover the remainder of the mouth. These limbs, or [[maxilliped]]s, end in sharp claws and include venom glands that help the animal to kill or paralyze its prey.<ref name=IZ>{{cite book |last=Barnes |first=Robert D. |year=1982 |title=Invertebrate Zoology |publisher=Holt-Saunders International |location=Philadelphia, PA |pages=810–816 |isbn=978-0-03-056747-6}}</ref>
+
+Many species of centipedes lack eyes, but some possess a variable number of [[ocelli]], which are sometimes clustered together to form true [[compound eye]]s. However, these eyes are only capable of discerning light and dark, and have no true vision. In some species, the first pair of legs at the head end of the centipede acts<!-- pair is the subject --> as sense organs similar to antennae, but unlike the antennae of most other animals, theirs point backwards. Unusual sense organs found in some groups are the [[Organ of Tömösváry|organs of Tömösváry]]. These are located at the base of the antennae, and consist of a disc-like structure with a central pore surrounded by sensory cells. They are probably used for sensing vibrations, and may even provide a sense of hearing.<ref name=IZ/>
+
+Forcipules are a unique feature found only in centipedes and in no other arthropods. The forcipules are modifications of the first pair of [[arthropod leg|legs]] (the maxillipeds), forming a [[pincer (biology)|pincer]]-like [[appendage]] always found just behind the head.<ref name="Fox">{{cite web|last=Fox |first=Richard |title=Invertebrate Anatomy OnLine: ''Scutigera coleoptrata'', house centipede |date=June 28, 2006 |publisher=[[Lander University]] |url=http://webs.lander.edu/rsfox/invertebrates/scutigera.html |url-status=dead |archive-url=https://web.archive.org/web/20100719085317/http://webs.lander.edu/rsfox/invertebrates/scutigera.html |archive-date=2010-07-19 }}</ref> Forcipules are not true [[Arthropod mouthparts|mouthparts]], although they are used in the capture of prey items, injecting venom and holding onto captured prey. Venom glands run through a tube almost to the tip of each forcipule.<ref name="Fox"/>
+
+Behind the head, the body consists of 15 or more segments. Most of the segments bear a single pair of legs, with the maxillipeds projecting forward from the first body segment, and the final two segments being small and legless. Each pair of legs is slightly longer than the pair immediately in front of it, ensuring that they do not overlap, so reducing the chance that they will collide with each other while moving swiftly. In extreme cases, the last pair of legs may be twice the length of the first pair. The final segment bears a [[telson]] and includes the openings of the reproductive organs.<ref name=IZ/>
+
+As predators, centipedes mainly use their antennae to seek out their prey. The digestive tract forms a simple tube, with digestive glands attached to the mouthparts. Like insects, centipedes breathe through a [[invertebrate trachea|tracheal system]], typically with a single opening, or [[Spiracle (arthropods)|spiracle]], on each body segment. They excrete waste through a single pair of [[malpighian tubule]]s.<ref name=IZ/>
+
+''[[Scolopendra gigantea]]'', also known as the Amazonian giant centipede, is the largest existing species of centipede, reaching over {{convert|30|cm|in|abbr=on}} in length. It is known to eat [[lizards]], [[frogs]], [[birds]], [[mouse|mice]], and even [[bat]]s, catching them in midflight,<ref>{{cite journal |last1=Molinari |first1=Jesús |last2=Gutiérrez |first2=Eliécer E. |last3=de Ascenção |first3=Antonio A. |last4=Nassar |first4=Jafet M. |last5=Arends |first5=Alexis |last6=Márquez |first6=Robert J. |year=2005 |title=Predation by giant centipedes, ''Scolopendra gigantea'', on three species of bats in a Venezuelan cave |journal=[[Caribbean Journal of Science]] |volume=4 |issue=2 |pages=340–346 |url=http://www.caribjsci.org/aug05/41_340-346.pdf |access-date=2011-02-20 |archive-url=https://web.archive.org/web/20101009003226/http://caribjsci.org/aug05/41_340-346.pdf# |archive-date=2010-10-09 |url-status=dead }}</ref> as well as [[rodent]]s and [[spider]]s.
+
+===Distinction from millipedes===
+The differences between millipedes and centipedes are the subject of a common question from the general public.<ref name="Shelley 1999">{{cite journal |last=Shelley |first=Rowland M. |title=Centipedes and millipedes with emphasis on North American fauna |journal=The Kansas School Naturalist |year=1999 |volume=45 |issue=3 |pages=1–16 |url=http://www.emporia.edu/ksn/v45n3-march1999/ |access-date=2013-10-14 |archive-url=https://web.archive.org/web/20161112025334/http://www.emporia.edu/ksn/v45n3-march1999/ |archive-date=2016-11-12 |url-status=dead }}</ref> Both groups of myriapods share similarities, such as long, multi-segmented bodies, many legs, a single pair of antennae, and the presence of [[Tömösváry organ|postantennal organ]]s, but have many differences and distinct evolutionary histories, as the [[most recent common ancestor]] of centipedes and millipedes lived around 450 to 475 million years ago in the [[Silurian]] period.<ref name=Brewer&Bond2013>{{cite journal|last1=Brewer|first1=Michael S.|last2=Bond|first2=Jason E.|title=Ordinal-level phylogenomics of the arthropod class Diplopoda (Millipedes) based on an analysis of 221 nuclear protein-coding loci generated using next-generation sequence analyses|journal=PLOS ONE |year=2013|volume=8|issue=11|pages=e79935|doi=10.1371/journal.pone.0079935|pmid=24236165|pmc=3827447|bibcode=2013PLoSO...879935B|doi-access=free}}</ref> The head alone exemplifies the differences: millipedes have short, geniculate (elbowed) [[Antenna (biology)|antenna]]e for probing the substrate, a pair of robust mandibles and a single pair of maxillae fused into a lip; centipedes have long, threadlike antennae, a pair of small mandibles, two pairs of maxillae and a pair of large venom claws.<ref name=Blower>{{cite book|author=Blower, John Gordon|title=Millipedes: Keys and Notes for the Identification of the Species|url=https://books.google.com/books?id=VQsVAAAAIAAJ&pg=PA1 |year=1985 |publisher=Brill Archive |isbn=978-90-04-07698-3 |page=1}}</ref>
+[[File:Centipede 1852 Colorized.png|alt=Millipede and centipede|thumb|A representative millipede and centipede (not necessarily to scale)]]
+{| class="wikitable"
+|+ Millipede versus centipede differences<ref name="Shelley 1999"/>
+! Trait
+! Millipedes
+! Centipedes
+|- 
+! Legs
+| Two pairs on most body segments; attached to underside of body
+| One pair per body segment; attached to sides of body; last pair extends backwards
+|- 
+! Locomotion
+| Generally adapted for burrowing or inhabiting small crevices; slow-moving
+| Generally adapted for running, except for the burrowing [[Geophilomorpha|soil centipedes]]
+|- 
+! Feeding
+| Primarily detritivores, some herbivores, few carnivores; no venom
+| Primarily carnivores with claws modified into venomous fangs
+|- 
+! Spiracles
+| On underside of body
+| On the sides or top of body
+|- 
+! Reproductive openings
+| Third body segment
+| Last body segment	
+|- 
+! Reproductive behaviour
+| Male generally inserts spermatophore into female with gonopods
+| Male produces spermatophore that is usually picked up by female
+|}
+
+==Lifecycle==
+[[File:Centipede 1852 Colorized.png|thumb|A centipede protecting her first [[instar]] offspring]]
+Centipede reproduction does not involve copulation. Males deposit a [[spermatophore]] for the female to take up. In one clade, this spermatophore is deposited in a web, and the male undertakes a [[courtship]] dance to encourage the female to engulf his sperm. In other cases, the males just leave them for the females to find. In temperate areas, egg laying occurs in spring and summer, but in subtropical and [[Tropics|tropical]] areas, little seasonality to centipede breeding is apparent. A few species of [[parthenogenetic]] centipedes are known.<ref name="Biology"/>
+
+The Lithobiomorpha and Scutigeromorpha lay their [[egg (biology)|eggs]] singly in holes in the soil, and the female fills the holes with soil and leaves them. The number of eggs laid ranges from about 10 to 50. Time of development of the embryo to hatching is highly variable and may take from one to a few months. Time of development to reproductive period is highly variable within and among species. For example, it can take 3 years for ''S. coleoptrata'' to achieve adulthood, whereas under the right conditions, lithobiomorph species may reach a reproductive period in 1 year. In addition, centipedes are relatively long-lived when compared to insects. For example, the European ''[[Lithobius forficatus]]'' may live for 5 to 6 years,<ref>{{cite book |last1=Lewis |first1=J. G. E. |title=The Biology of Centipedes |publisher=Cambridge University Press |isbn=9780521034111 |page=328 |url=https://books.google.com/books?id=AEp22u6tJgsC&q=%22Lithobius+forficatus%22+five+OR+5+six+OR+6+years&pg=PA328 |date=2006 |access-date=2016-12-24}}</ref> and the wide-ranging ''[[Scolopendra subspinipes]]'' can live for over 10 years.<ref name="Hawaii">{{cite web |last1=Yates III |first1=Julian R. |url=http://www.extento.hawaii.edu/kbase/urban/Site/Centip.htm |title=''Scolopendra subspinipes'' (Leach) |website=[[University of Hawaii]] EXTension ENTOmology & UH-CTAHR Integrated Pest Management Program: Knowledge Master |date=December 1992 |access-date=2016-12-24}}</ref> The combination of a small number of eggs laid, long gestation period, and long time of development to reproduction has led authors to label lithobiomorph centipedes as [[r/K selection theory|K-selected]].<ref>{{cite book |last=Albert |first=A. M. |editor-last=Camatini |editor-first=Marina |year=1979 |chapter=Chilopoda as part of the predatory macroarthropod fauna in forests: abundance, life-cycle, biomass, and metabolism |title=Myriapod biology |publisher=[[Academic Press]] |isbn=978-0-12-155750-8 |pages=215–231}}</ref>
+
+Females of the Geophilomorpha and Scolopendromorpha show far more parental care. The eggs, 15 to 60 in number, are laid in a nest in the soil or in rotten wood. The female stays with the eggs, guarding and cleaning them to protect them from [[fungus|fungi]]. The female in some species stays with the young after they have hatched, guarding them until they are ready to leave. If disturbed, the female either abandons the eggs or eats them; abandoned eggs tend to fall prey to fungi rapidly. Some species of Scolopendromorpha are matriphagic, meaning the offspring eat their mother.
+
+Little is known of the life history of the [[Craterostigmomorpha]].
+
+===Anamorphy vs. epimorphy===
+Centipedes grow their legs at different points in their development. In the primitive condition, exhibited by the Lithobiomorpha, Scutigeromorpha, and Craterostigmomorpha, development is [[Anamorphosis (biology)|anamorphic]]: more pairs of legs are grown between [[ecdysis|moults]]. For example, ''[[Scutigera coleoptrata]]'', the house centipede, hatches with only four pairs of legs and in successive moults has 5, 7, 9, 11, 15, 15, 15 and 15 before becoming a sexually mature adult. Life stages with fewer than 15 pairs of legs are called larval stadia (about five stages). After the full complement of legs is achieved, the now postlarval stadia (about five stages) develop gonopods, sensory pores, more antennal segments, and more ocelli. All mature lithobiomorph centipedes have 15 leg-bearing segments.<ref name="Biology"/>{{rp|27}}
+
+The Craterostigmomorpha only have one phase of anamorphosis, with embryos having 12 pairs, and moultees 15.
+
+The clade Epimorpha, consisting of the orders Geophilomorpha and Scolopendromorpha, exhibits epimorphy: all pairs of legs are developed in the embryonic stages, and offspring do not develop more legs between moults. This clade contains the longest centipedes; the maximum number of thoracic segments may also vary intraspecifically, often on a geographical basis; in most cases, females bear more legs than males. The number of leg-bearing segments varies widely, from 15 to 191, but the developmental mode of their creation means they are always added in pairs—hence the total number of pairs is always odd.
+
+==Ecology==
+[[File:Centipede 1852 Colorized.png|thumb|A centipede (''[[Scolopendra cingulata]]'') being eaten by a [[European roller]]]]
+[[File:Centipede 1852 Colorized.png|thumb|A juvenile centipede seen on vegetation at [[Agumbe]], [[Karnataka]], India]]
+Centipedes are  predominantly [[generalist and specialist species|generalist]] predators, which means they have adapted to eat a variety of different available prey. Examination of centipede gut contents suggests that plant material is an unimportant part of their diets, although centipedes have been observed to eat vegetable matter when starved during laboratory experiments.<ref name="Biology"/>{{rp|168}}
+
+Centipedes are mostly [[nocturnality|nocturnal]]. Studies on their activity rhythms confirm this, although a few observations of centipedes active during the day have been made, and one species, ''Strigamia chinophila'', is diurnal. What centipedes actually eat is not well known because of their cryptic lifestyles and thorough [[mastication]] of food. Laboratory feeding trials support that they will feed as generalists, taking almost anything that is soft-bodied and in a reasonable size range. Earthworms may provide the bulk of diets for geophilomorphs, since they burrow through the soil and earthworm bodies would be easily pierced by their venomous claws. Geophilomorphs probably cannot subdue earthworms larger than themselves, so smaller earthworms may be a substantial proportion of their diet.<ref>{{cite journal |last=Weil |first=Edmund |year=1958 |title=Zur Biologie der einheimischen Geophiliden |trans-title=On the biology of the native geophilids |journal=Zeitschrift für Angewandte Entomologie |volume=42 |issue=2 |pages=173–209 |language=de |doi=10.1111/j.1439-0418.1958.tb00889.x}}</ref>
+
+Scolopendromorphs, given their size, are able to feed on vertebrates,<ref>{{Cite journal|last1=Halpin|first1=Luke R.|last2=Terrington|first2=Daniel I.|last3=Jones|first3=Holly P.|last4=Mott|first4=Rowan|last5=Wong|first5=Wei Wen|last6=Dow|first6=David C.|last7=Carlile|first7=Nicholas|last8=Clarke|first8=Rohan H.|date=2021-08-03|title=Arthropod Predation of Vertebrates Structures Trophic Dynamics in Island Ecosystems|journal=The American Naturalist|volume=198|issue=4|pages=540–550|doi=10.1086/715702|pmid=34559614|issn=0003-0147|doi-access=free}}</ref> in addition to invertebrates.  [[Springtail]]s may provide a large proportion of lithobiomorph diets. Little is known about scutigeromorph or craterostigmomorph diets. All centipedes are potential [[intraguild predator]]s. Centipedes and spiders may frequently prey on one another.<ref name="Biology"/> Three species (''[[Scolopendra cataracta]]'', ''S. paradoxa'', and ''S. alcyona'') are known to be amphibious and are believed to hunt aquatic or amphibious invertebrates.<ref name="Guardian">{{cite news|url=https://www.theguardian.com/environment/2016/jul/01/giant-swimming-venomous-centipede-found-south-east-asia|title=Giant swimming, venomous centipede discovered by accident in world-first|last=Holmes|first=O.|date=1 July 2016|newspaper=[[The Guardian]]|access-date=1 July 2016}}</ref><ref name="Novataxa">{{Cite web|url=https://novataxa.blogspot.com/2018/09/scolopendra-paradoxa.html|title=Species New to Science: [Chilopoda • 2018] Scolopendra paradoxa • A Phylogenetic Approach to the Philippines Endemic Centipedes of the Genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae), with the Description of A New Species|last=Pskhun|date=24 September 2018|website=Species New to Science|access-date=2018-10-17}}</ref><ref name="Zootaxa">{{Cite web|url=https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4952.3.3|title=A new amphibious species of the genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae) from the Ryukyu Archipelago and Taiwan|last=Sho|first=T.|date=12 April 2021|website=Biotaxa|access-date=2022-01-10}}></ref>
+
+Many larger animals prey upon centipedes, such as [[mongoose]]s, [[mice]], [[salamander]]s, [[beetle]]s and [[snake]]s.<ref name="Biology"/>{{rp|354–356}} They form an important item of diet for many species and the staple diet of some such as the African ant ''[[Amblyopone pluto]]'', which feeds solely on geophilomorph centipedes,<ref name="Ants">{{cite book |last1=Hölldobler |first1=Bert |author-link1=Bert Hölldobler |last2=Wilson |first2=Edward O. |author-link2=Edward O. Wilson |title=The Ants |year=1990 |publisher=[[Harvard University Press]] |isbn=978-0-674-04075-5 |chapter=The specialized predators |pages=[https://archive.org/details/ants0000hlld/page/557 557–572] |chapter-url=https://books.google.com/books?id=R-7TaridBX0C |url=https://archive.org/details/ants0000hlld/page/557 }}</ref> and the South African Cape black-headed snake ''[[Aparallactus capensis]]''.<ref name="Biology"/>{{rp|354–356}}
+
+Centipede defences include their speed and venomous forcipules, as well as the secretion of defensive chemicals. Geophilomorph centipedes can secrete sticky substances that generate toxic [[hydrogen cyanide]] and [[benzoic acid]] from microscopic glands on their undersides. Similarly, lithobiomorph centipedes secrete a sticky substance from glands in the rear-most two pairs of legs.<ref>{{cite book |last1=Einser |first1=Thomas |last2=Eisner |first2=Maria |last3=Siegler |first3=Melody |title=Secret weapons: defenses of insects, spiders, scorpions and other many-legged creatures |year=2005 |publisher=The Belknap Press |location=Cambridge, Massachusetts |isbn=978-0-674-01882-2 |pages=[https://archive.org/details/secretweaponsdef00eisn/page/33 33–36] |url-access=registration |url=https://archive.org/details/secretweaponsdef00eisn/page/33 }}</ref>
+
+Water regulation is an important aspect of centipede ecology, since they lose water rapidly in dry conditions and are found in moist [[microhabitats]]. Water loss is a result of centipedes lacking a waxy covering of their exoskeleton and excreting waste nitrogen as [[ammonia]], which requires extra water. Centipedes deal with water loss through a variety of adaptations. Geophilomorphs lose water less rapidly than lithobiomorphs, though they have a greater surface area to volume ratio. This may be because geophilomorphs have a more heavily sclerotized pleural membrane. Spiracle shape, size, and ability to constrict also have an influence on rate of water loss. In addition, the number and size of coxal pores may be variables affecting centipede water balance.
+
+Centipedes live in many different habitat types—forest, [[savannah]], prairie, and desert, to name a few. Some geophilomorphs are adapted to littoral habitats, where they feed on [[barnacle]]s.<ref>{{cite journal |last=Lewis |first=J. G. E. |year=1961 |title=The life history and ecology of the littoral centipede ''Strigamia maritima'' (Leach) |journal=[[Journal of Zoology|Proceedings of the Zoological Society of London]] |volume=137 |issue=2 |pages=221–248 |doi=10.1111/j.1469-7998.1961.tb05900.x}}</ref> Species of all orders excluding the Craterostigmomorpha have adapted to caves. Centipede densities have been recorded as high as 600/m<sup>2</sup> and biomass as high as 500&nbsp;mg/m<sup>2</sup> wet weight. Small geophilomorphs attain highest densities, followed by small lithobiomorphs. Large lithobiomorphs attain densities of 20/m<sup>2</sup>. One study of scolopendromorphs records ''[[Scolopendra morsitans]]'' in a Nigerian savannah at a density of 0.16/m<sup>2</sup> and a biomass of 140&nbsp;mg/m<sup>2</sup> wet weight.<ref>{{cite journal |last=Lewis |first=J. G. E. |year=1972 |title=The population density and biomass of the centipede ''S. amazonica'' (Bucherl) (Scolopendromorpha: Scolopendridae) in Sahel savannah in Nigeria |journal=[[Entomologist's Monthly Magazine]] |volume=108 |pages=16–18}}</ref>
+
+===Uses===
+====As food====
+[[File:Centipede 1852 Colorized.png|thumb|Centipedes at [[Wangfujing]] market]]
+As a food item, certain large-sized centipedes are consumed in [[China]], usually skewered and grilled or deep fried. They are often seen in street vendors’ stalls in large cities, including [[Donghuamen Night Market|Donghuamen]] and [[Wangfujing]] markets in [[Beijing]].<ref>[http://www.followmefoodie.com/2012/10/beijing-china-eating-bugs-spiders-centipedes-on-donghuamen-night-market/ Eating Bugs/Insects in Donghuamen Night Market! - Follow me Foodie]</ref><ref>{{Cite web |url=http://whenonearth.net/101-strangest-foods-around-world/# |title=101 Strangest Foods Around the World |access-date=2015-06-28 |archive-url=https://web.archive.org/web/20161116100414/http://whenonearth.net/101-strangest-foods-around-world/# |archive-date=2016-11-16 |url-status=dead }}</ref>
+
+Also in China, as well as in [[Laos]], [[Thailand]], and [[Cambodia]], large centipedes are kept in liquor for a period of time. This custom is allegedly part of the [[traditional Chinese medicine]]. Said to have medicinal properties and to be reinvigorating,<ref>[http://www.thailandunique.com/centipede-vodka-drink Centipede Vodka Infusion 100ml]</ref> the liquor with the centipede submerged in it is consumed as a special drink.<ref>[https://www.youtube.com/watch?v=YVOfIE4_PIg Drinking centipede alcohol (Cambodia)]</ref>
+
+===Hazards to humans===
+{{Main|Centipede bite}}
+Some species of centipedes can be hazardous to humans because of their bite. While a bite to an adult human is usually very painful and may cause severe swelling, chills, [[fever]], and weakness, it is unlikely to be fatal. Bites can be dangerous to small children and those with allergies to bee stings. The venomous bite of larger centipedes can induce [[Anaphylaxis|anaphylactic shock]] in such people. Smaller centipedes are generally incapable of piercing human skin.<ref>{{cite journal |last1=Bush |first1=Sean P. |last2=King |first2=Bradley O. |last3=Norris |first3=Robert L. |last4=Stockwell  |first4=Scott A. |title=Centipede envenomation |year=2001 |journal=Wilderness & Environmental Medicine |volume=12 |issue=2 |pages=93–99 |pmid=11434497 |url=http://www.wemjournal.org/article/S1080-6032%2801%2970700-4/abstract |doi=10.1580/1080-6032(2001)012[0093:CE]2.0.CO;2|doi-access=free }}</ref>
+
+Even small centipedes that can't pierce human skin are considered frightening by some humans due to their dozens of legs moving at the same time and their tendency to dart swiftly out of the darkness towards one's feet.<ref name="Description">{{cite book |last=Jacobs |first=Steven J. |title=House Centipede |date=19 October 2009 |publisher=[[Pennsylvania State University]] |url=http://ento.psu.edu/extension/factsheets/pdf/HouseCentipedes2.pdf |quote=In 1902, C.L. Marlatt, an entomologist with the United States Department of Agriculture writes in Circular #48 - <u>The House Centipede</u>: It may often be seen darting across floors with great speed, occasionally stopping suddenly and remaining absolutely motionless, presently to resume its rapid movements, often darting directly at residents, particularly women, evidently with a desire to conceal itself beneath their dresses, creating much consternation. |access-date=26 July 2012 |archive-url=https://web.archive.org/web/20111009095749/http://ento.psu.edu/extension/factsheets/pdf/HouseCentipedes2.pdf |archive-date=9 October 2011 |url-status=dead }}</ref> A 19th-century Tibetan poet warned his fellow Buddhists, "if you enjoy frightening others, you will be reborn as a centipede."<ref>Zabs-Dkar Tshogs-Drug-Ran-Grol. ''The Life of Shabkar: The Autobiography of a Tibetan Yogin''. Albany: SUNY Press, 1994. p. 295.</ref>
+
+==Evolution==
+{| class="wikitable" align="right"
+! Internal phylogeny of the Chilopoda
+|-
+|
+{{clade|1=
+ [[Scutigeromorpha]]|label2=
+ [[Pleurostigmophora]]|2=
+ {{clade|1=
+  [[Lithobiomorpha]]|label2=
+  [[Phylactometria]]|2=
+  {{clade|1=
+   [[Craterostigmomorpha]]|label2=
+   [[Epimorpha]]|2=
+   {{clade|1=
+    [[Scolopendromorpha]]|2=
+    [[Geophilomorpha]]
+   }}
+  }}
+ }}
+}}
+|-
+| The upper three groups form the paraphyletic [[Anamorpha]].
+|}
+The [[fossil record]] of centipedes extends back to {{Ma|430}}, during the [[Late Silurian]].<ref>{{cite journal |last=Shear |first=W. A. |year=1992 |title=Early life on land |journal=[[American Scientist]] |volume=80 |issue=5 |pages=444–456|bibcode=1992AmSci..80..444G }}</ref> They belong to the subphylum [[Myriapoda]] which includes [[Diplopoda]], [[Symphyla]], and [[Pauropoda]]. The oldest known fossil land animal, ''[[Pneumodesmus newmani]]'', is a [[myriapod]]. Being among the earliest terrestrial animals, centipedes were one of the first to fill a fundamental niche as ground level [[generalist and specialist species|generalist]] predators in [[detritus|detrital]] [[food web]]s. Today, centipedes are abundant and exist in many harsh habitats.
+
+All centipedes are [[venomous]]. Over the first 50 million years of the clade's evolutionary history, centipede venoms appear to have consisted of a simple cocktail of about four different components, and differentiation into specific venom types appears to have only occurred after the currently recognized five orders had developed. The evolution of the venom includes [[horizontal gene transfer]], involving bacteria, fungi and [[oomycete]]s.<ref>{{cite journal|last1=Undheim|first1=E. A.|last2=Jenner|first2=R. A.|year=2021|title=Phylogenetic analyses suggest centipede venom arsenals were repeatedly stocked by horizontal gene transfer|journal=Nature Communications|volume=12|issue=1|page=818|doi=10.1038/s41467-021-21093-8|pmid=33547293|pmc=7864903|bibcode=2021NatCo..12..818U}}</ref>
+
+Within the myriapods, centipedes are believed to be the first of the extant classes to branch from the [[Most recent common ancestor|last common ancestor]]. The five orders of centipedes are: [[Craterostigmomorpha]], [[Geophilomorpha]], [[Lithobiomorpha]], [[Scolopendromorpha]], and [[Scutigeromorpha]]. These orders are united into the [[clade]] Chilopoda by the following [[synapomorphy|synapomorphies]]:<ref name="phylogeny">{{cite book |last1=Edgecombe |first1=G. D. |last2=Giribet |first2=G. |editor1-last=Bousquets |editor1-first=J. Llorente |editor2-last=Morrone |editor2-first=J. J. |year=2002 |chapter=Myriapod phylogeny and the relationships of Chilopoda |pages=143–168 |title=Biodiversidad, Taxonomía y Biogeografia de Artrópodos de México: Hacia una Síntesis de su Conocimiento, Volumen III |publisher=[[National Autonomous University of Mexico|Universidad Nacional Autónoma de México]]}}</ref>
+
+# The first postcephalic appendage is modified to venom claws.
+# The embryonic cuticle on second maxilliped has an [[egg tooth]].
+# The trochanter–prefemur joint is fixed.
+# A spiral ridge occurs on the nucleus of the spermatozoon.
+
+The Chilopoda are then split into two clades: the Notostigmophora including the Scutigeromorpha and the Pleurostigmophora including the other four orders. The main difference is that the Notostigmophora have their spiracles located mid-dorsally. It was previously believed that Chilopoda was split into Anamorpha (Lithobiomorpha and Scutigeromorpha) and Epimorpha (Geophilomorpha and Scolopendromorpha), based on developmental modes, with the relationship of the Craterostigmomorpha being uncertain. Recent phylogenetic analyses using combined molecular and morphological characters supports the previous phylogeny.<ref name="phylogeny"/> The Epimorpha still exist as a [[monophyletic]] group within the Pleurostigmophora, but the Anamorpha are [[paraphyly|paraphyletic]].
+
+Geophilomorph centipedes have been used to argue for the developmental constraint of evolution; that the evolvability of a trait, the number of segments in the case of geophilomorph centipedes, was constrained by the mode of development. The geophilomorph centipedes have variable segment numbers within species, yet as with all centipedes, they always have an odd number of pairs of legs. In this taxon, the number of segments ranges from 27 to 191, but is never an even number.<ref>{{cite book |last=Minelli |first=Alessandro |editor1-last=Ayala |editor1-first=Francisco J. |editor2-last=Arp |editor2-first=Robert |title=Contemporary Debates in Philosophy of Biology |year=2009 |publisher=John Wiley and Sons |isbn=978-1-4051-5999-9 |pages=213–226 |chapter-url=https://books.google.com/books?id=4p6sGSjdVxUC&pg=PA218 |chapter=Evolutionary developmental biology does not offer a significant challenge to the neo-Darwinian paradigm}}</ref>
+
+==Orders and families==
+{{Multiple image
+| header            = Representatives of centipede orders
+| direction         = vertical
+| width             = 220
+| image1            = Centipede 1852 Colorized.png
+| caption1          = ''[[Scutigera coleoptrata]]''<br />(Scutigeromorpha: Scutigeridae)
+| image2            = Centipede 1852 Colorized.png
+| caption2          = ''[[Lithobius forficatus]]''<br />(Lithobiomorpha: Lithobiidae)
+| image3            = Centipede 1852 Colorized.png
+| caption3          = ''[[Scolopendra cataracta]]''<br />(Scolopendromorpha: Scolopendridae)
+| image4            = Centipede 1852 Colorized.png
+| caption4          = ''[[Geophilus flavus]]''<br />(Geophilomorpha: Geophilidae)
+}}
+
+===Scutigeromorpha===
+The Scutigeromorpha are anamorphic, reaching 15 leg-bearing segments in length. Also known as house centipedes, they are very fast creatures, and able to withstand falling at great speed: they reach up to 15 body lengths per second when dropped, surviving the fall. They are the only centipede group to retain their original [[compound eye]]s, within which a crystalline layer analogous to that seen in [[Chelicerata|chelicerates]] and insects can be observed. They also bear long and multi-segmented antennae. Adaptation to a burrowing lifestyle has led to the degeneration of compound eyes in other orders; this feature is of great use in [[phylogenetic]] analysis.
+
+The group is the sole [[wikt:extant|extant]] representative of the [[Notostigmophora]], defined by having a single [[Spiracle (arthropods)|spiracle]] opening at the posterior of each dorsal plate. The more derived groups bear a plurality of spiracular openings on their sides, and are termed the [[Pleurostigmophora]]. Some even have several unpaired spiracles that can be found along the mid-dorsal line and closer to their posterior section of [[tergite]]s. There are three families: [[Pselliodidae]], [[Scutigeridae]] and [[Scutigerinidae]]. Pselliodidae includes just a few species in the genus ''Sphendononema'' (=''Pselliodes''), occurring in the Neotropics and tropical Africa. Scutigerinidae, composed of three species in the genus ''Scutigerina'', is restricted to southern Africa and Madagascar. Most scutigeromorphs from other parts of the world belong to the Scutigeridae, which includes two subfamilies, the Scutigerinae and Thereuoneminae.
+
+===Lithobiomorpha===
+The Lithobiomorpha, also known as stone centipedes, represent the other main group of anamorphic centipedes; they also reach a mature segment count of 15 trunk segments. This group has lost the compound eyes, and sometimes has no eyes altogether. Instead, its eyes have a single ocellus or a group of ocelli. Its spiracles are paired and can be found laterally. Every leg-bearing segment of this organism has a separate tergite, these alternating in length apart from a pair of long tergites on each of segments 7 and 8. It also has relatively short antennae and legs compared to the Scutigeromorpha. Two families are included, the [[Henicopidae]] and [[Lithobiidae]].
+
+===Craterostigmomorpha===
+The Craterostigmomorpha are the least diverse centipede clade, comprising only two extant species, both in the genus ''Craterostigmus''.<ref name="crabili">{{cite journal |last1=Edgecombe |first1=Gregory D. |last2=Giribet |first2=Gonzalo |year=2008 |title=A New Zealand species of the trans-Tasman centipede order Craterostigmomorpha (Arthropoda : Chilopoda) corroborated by molecular evidence |journal=Invertebrate Systematics |volume=22 |pages=1–15 |doi=10.1071/IS07036 }}</ref> Their geographic range is restricted to Tasmania and New Zealand. There is a single ocellus on each side of the head capsule.<ref>[https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1096-0031.2011.00361.x Evolution of blindness in scolopendromorph centipedes (Chilopoda:Scolopendromorpha): insight from an expanded sampling ofmolecular data]</ref> They have a distinct body plan; their anamorphosis comprises a single stage: in their first moult, they grow from having 12 trunk segments to having 15. Adult centipedes in this order, like those in Scutigeromorpha and Lithobiomorpha, have 15 leg-bearing segments.<ref>{{Citation |last1=Minelli |first1=Alessandro |title=Myriapods |date=2013-01-01 |url=https://www.sciencedirect.com/science/article/pii/B9780123847195002082 |encyclopedia=Encyclopedia of Biodiversity (Second Edition) |pages=421–432 |editor-last=Levin |editor-first=Simon A |place=Waltham |publisher=Academic Press |language=en |doi=10.1016/b978-0-12-384719-5.00208-2 |isbn=978-0-12-384720-1 |access-date=2022-02-28 |last2=Golovatch |first2=Sergei I.}}</ref><ref name=":1" /> Their low diversity and intermediate position between the primitive anamorphic centipedes and the derived Epimorpha has led to them being likened to the [[platypus]].<ref name="crabili"/> They represent the survivors of a once diverse clade.
+
+Maternal brooding unites the Craterostigmomorpha with the Epimorpha into the [[clade]] [[Phylactometria]]. This trait is thought to be closely linked with the presence of sternal pores, which secrete sticky or noxious secretions, which mainly serve to repel predators and [[parasite]]s. The presence of these pores on the [[Devonian]] ''Devonobius'' permits its inclusion in this clade, allowing its divergence to be dated to {{Ma|375|(or more) million years ago}}.<ref name="Giribet2006">{{cite journal |last1=Giribet |first1=Gonzalo |last2=Edgecombe |first2=Gregory D. |year=2006 |title=Conflict between datasets and phylogeny of centipedes: an analysis based on seven genes and morphology |journal=[[Proceedings of the Royal Society B]] |volume=273 |issue=1586 |pmid=16537123 |pages=531–538 |pmc=1560052 |doi=10.1098/rspb.2005.3365 }}</ref>
+
+===Scolopendromorpha===
+The Scolopendromorpha, also known as tropical centipedes, usually possess 21 or 23 trunk segments with the same number of paired legs. The number of leg pairs is fixed at 21 for most species in this order and fixed at 23 for the remaining species, except for two species with intraspecific variation: ''Scolopendropsis bahiensis'', which has 21 or 23 leg pairs, and ''Scolopendropsis duplicata'', which has 39 or 43 leg pairs.<ref name=":1">{{Cite journal|last=Minelli|first=Alessandro|date=2020|title=Arthropod segments and segmentation – lessons from myriapods, and open questions|url=http://opuscula.elte.hu/PDF/Tomus51_S2/Op_%20Minelli_Arthropod_segmentation.pdf|journal=Opuscula Zoologica|volume=51(S2)|pages=7–21|doi=10.18348/opzool.2020.S2.7|s2cid=226561862}}</ref> Species in this order have antennae with 17 or more segments. The order comprises the five families [[Cryptopidae]], [[Scolopendridae]], Mimopidae, [[Scolopocryptopidae]], and Plutoniumidae. Nearly all species in the family Scolopendridae have four ocelli ([[Simple eye in invertebrates|simple eyes]]) on each side of the head, and the genus ''Mimops'' (family Mimopidae) features a pale area often considered an ocellus on each side of the head, whereas the other three families are blind.<ref name=":2" /><ref name=":3" /><ref name=":0" /> Species in the family Scolopocryptopidae have 23 leg-bearing segments, whereas species in all other families in this order have only 21 leg-bearing segments (with the exception of the genus ''Scolopendropsis'' in Scolopendridae).<ref name=":3">{{Cite journal|last1=Vahtera|first1=Varpu|last2=Edgecombe|first2=Gregory D.|last3=Giribet|first3=Gonzalo|date=2012|title=Evolution of blindness in scolopendromorph centipedes (Chilopoda: Scolopendromorpha): insight from an expanded sampling of molecular data|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-0031.2011.00361.x|journal=Cladistics|language=en|volume=28|issue=1|pages=4–20|doi=10.1111/j.1096-0031.2011.00361.x|pmid=34856735|s2cid=84329980|issn=1096-0031}}</ref><ref name=":2">{{Cite journal|last1=Jiang|first1=Chao|last2=Bai|first2=Yunjun|last3=Shi|first3=Mengxuan|last4=Liu|first4=Juan|date=2020-12-05|title=Rediscovery and phylogenetic relationships of the scolopendromorph centipede Mimops orientalis Kraepelin, 1903 (Chilopoda): a monotypic species of Mimopidae endemic to China, for more than one century|url=https://zookeys.pensoft.net/article/51461/|journal=ZooKeys|language=en|issue=932|pages=75–91|doi=10.3897/zookeys.932.51461|pmid=32476974|pmc=7239954|issn=1313-2970|doi-access=free}}</ref><ref name=":0">{{Cite web|last=Shelley|first=Rowland M.|title=Centipedes|url=https://ag.tennessee.edu/EPP/Pages/Nadiplochilo/Centipedes.aspx|access-date=2022-02-18|website=ag.tennessee.edu}}</ref> The only 3 known amphibious centipedes, ''[[Scolopendra cataracta]]'', ''[[Scolopendra paradoxa]]'' and ''[[Scolopendra alcyona]]'' belong to this order.<ref name = Guardian/><ref name = Novataxa/><ref name = Zootaxa/><ref>{{cite web|title = 'Horrific' First Amphibious Centipede Discovered|last = Bates|first = M.|date = 26 June 2016|access-date = 1 July 2016|url = http://news.nationalgeographic.com/2016/06/amphibious-centipede-discovered-laos-scolopendra-cataracta-new-species/|publisher = [[National Geographic Society|National Geographic]]}}</ref><ref>{{cite journal|title = A taxonomic review of the centipede genus Scolopendra Linnaeus, 1758 (Scolopendromorpha, Scolopendridae) in mainland Southeast Asia, with description of a new species from Laos|first1 = W.|last1 = Siriwut|first2 = G. D.|last2 = Edgecombe|first3 = C.|last3 = Sutcharit|first4 = P.|last4 = Tongkerd|first5 = S.|last5 = Panha|journal = [[ZooKeys]]|issue = 590|pages = 1–124|year = 2016|doi = 10.3897/zookeys.590.7950|pmid = 27408540|pmc = 4926625|doi-access = free}}</ref>
+
+===Geophilomorpha===
+The Geophilomorpha, commonly known as soil centipedes, bear upwards of 27 leg-bearing segments. They are eyeless and blind, and bear spiracles on all leg-bearing segments—in contrast to other groups, which usually bear them only on their 3rd, 5th, 8th, 10th, 12th, and 14th segments—a "mid-body break", accompanied by a change in tagmatic shape, occurring roughly at the interchange from odd to even segments. This group is the most diverse centipede order, with 180 genera.<ref name=":0" /> Centipedes in this order each have an odd number of leg-bearing segments ranging from 27 (in the genus ''Schendylops'')<ref>{{Cite journal|last=Pereira|first=Luis Alberto|date=2012|title=Discovery of a second Geophilomorph species (Myriapoda: Chilopoda) having twenty-seven leg-bearing segments, the lowest number recorded up to the present in the centipede order geophilomorpha|url=https://www.researchgate.net/publication/262441077|journal=Papéis Avulsos de Zoologia (São Paulo)|volume=53|issue=13|pages=163‑185|doi=10.1590/S0031-10492013001300001}}</ref> to 191 (in the species ''Gonibregmatus plurimipes'').<ref>{{Cite journal|last=Fusco|first=Giuseppe|date=2005|title=Trunk segment numbers and sequential segmentation in myriapods|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1525-142X.2005.05064.x|journal=Evolution & Development|language=en|volume=7|issue=6|pages=608–617|doi=10.1111/j.1525-142X.2005.05064.x|pmid=16336414|s2cid=21401688|issn=1525-142X}}</ref> They also have 14–segmented antennae. It is a monophyletic group including two suborders: the monophyletic [[Placodesmata]], which contains [[Mecistocephalidae]], and [[Adesmata]], which includes the superfamilies [[Himantarioidea]] ([[Oryidae]], [[Himantariidae]], and [[Schendylidae]], including [[Ballophilidae]]) and [[Geophiloidea]] ([[Zelanophilidae]], [[Gonibregmatidae]] including Eriphantidae and Neogeophilidae, and [[Geophilidae]] including [[Aphilodontidae]], [[Dignathodontidae]], [[Linotaeniidae]], Chilenophilinae,<ref>{{cite journal |last1=Crabill |first1=Ralph Edwin |title=A conspectus of the northeastern North American species of Geophilus (Chilopoda Geophilomorpha Geophilidae) |journal=Proceedings of the Entomological Society of Washington |date=1954 |volume=56 |pages=172–188 |doi= |url=https://www.biodiversitylibrary.org/page/16179233 |access-date=23 October 2021}}</ref> and Macronicophilidae).<ref>{{cite journal |last1=Bonato |first1=Lucio |title=Phylogeny of Geophilomorpha (Chilopoda) inferred from new morphological and molecular evidence |journal=Cladistics |date=2014 |volume=30 |issue=5 |pages=485–507 |doi=10.1111/cla.12060 |pmid=34794246 |s2cid=86204188 |url=https://onlinelibrary.wiley.com/doi/10.1111/cla.12060 |access-date=27 October 2021}}</ref> Segment number is usually fixed by species in the family Mecistocephalidae, unlike the case in other families in this order, in which the segment number usually varies within each species.<ref name=":1" />
+
+==Selected species==
+[[File:Centipede 1852 Colorized.png|thumb|Man holding ''[[Scolopendra gigantea]]''. [[Trinidad]], 1961]]
+{| class="wikitable sortable"
+|-bgcolor="#cccccc"
+|'''Scientific name''' || '''Common name'''
+|-
+|''[[Alipes grandidieri]]'' || feather-tail centipede
+|-
+|''[[Ethmostigmus trigonopodus]]'' || blue ring centipede
+|-
+|''[[Lithobius forficatus]]'' || stone centipede
+|-
+|''[[Pachymerium ferrugineum]]'' || earth centipede
+|-
+|''[[Scolopendra galapagoensis]]'' || Galápagos centipede
+|-
+|''[[Scolopendra cataracta]]''
+|Aquatic centipede
+|-
+|''[[Scutigera coleoptrata]]'' || house centipede
+|-
+|''[[Scolopendra gigantea]]'' || Peruvian giant yellow-leg centipede
+|-
+|''[[Scolopendra heros]]'' || giant red-headed centipede
+|-
+|''[[Scolopendra morsitans]]'' || red-headed centipede
+|-
+|''[[Scolopendra polymorpha]]'' || giant Sonoran centipede
+|-
+|''[[Scolopendra subspinipes]]'' || Vietnamese centipede
+|}
+
+==See also==
+{{Portal|Arthropods}}
+*[[Centipedes of the Mazon Creek fossil beds]]
+*[[Centipede mathematics]]
+*[[The Centipede's Dilemma]]
+*[[Millipede]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[https://chilobase.biologia.unipd.it/ Chilobase Centipede Catalog]
+{{Commons category|Chilopoda}}
+{{EB1911 poster|Centipede}}
+{{div col|colwidth=26em}}
+*[http://chilobase.biologia.unipd.it/ Chilobase, a web resource for Chilopoda taxonomy]
+*[http://atshq.org/articles/centipedes.html Debunking of some centipede myths] {{Webarchive|url=https://web.archive.org/web/20060824064342/http://www.atshq.org/articles/centipedes.html |date=2006-08-24 }}, American Tarantula Society
+*[https://web.archive.org/web/20190817202751/http://www.ento.csiro.au/biology/centipedes/centipedeKey.html Centipedes of Australia]
+*[http://tolweb.org/tree?group=Chilopoda&contgroup=Arthropoda Chilopoda], [[Tree of Life Web Project]]
+*[http://www.cut-the-knot.org/language/centipede.shtml What do you call a centipede?]
+*[https://web.archive.org/web/20140105113506/http://nadiplochilo.com/centi.html Centipedes of North America]
+*[https://web.archive.org/web/20160304030922/http://www.polydesmida.info/tasmanianmultipedes/centi-key.html Tasmanian Centipedes]
+
+{{div col end}}
+
+{{Arthropods}}
+
+{{Taxonbar|from=Q43447}}
+{{Authority control}}
+
+[[Category:Centipedes| ]]
+[[Category:Extant Silurian first appearances]]
+[[Category:Myriapods]]
